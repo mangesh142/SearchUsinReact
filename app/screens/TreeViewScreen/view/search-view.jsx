@@ -93,6 +93,7 @@ var NameContainerView = React.createClass({
             <input type="text" className="test" value={this.state.textValue} onChange={this.handleOnChange}
                    onKeyUp={this.handleEnterKeyUp} onKeyDown={this.handleEnterKeyDown}
                    placeholder="Search"/>
+            <h1>hii</h1>
           </div>
 
           {this.getView()}
