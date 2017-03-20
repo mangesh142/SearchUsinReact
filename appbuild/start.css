@@ -1,0 +1,53 @@
+#container {
+  margin-left: 39%;
+  width: 250px;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; }
+
+.searchTextBox {
+  border: 1px solid #d9d9d9;
+  border-radius: 4px; }
+
+.searchTextBox img {
+  width: 20px; }
+
+.searchTextBox input {
+  border: 0px solid #ccc;
+  outline: none;
+  vertical-align: top;
+  line-height: 20px; }
+
+.name-view {
+  margin-top: 5px; }
+
+.deleteName {
+  margin-right: 8px;
+  cursor: pointer;
+  float: right;
+  overflow: hidden; }
+
+.deleteName img {
+  width: 15px; }
+
+.moveUp {
+  overflow: hidden;
+  margin-right: 5px;
+  float: right;
+  cursor: pointer; }
+
+.moveUp img {
+  width: 15px; }
+
+.down {
+  cursor: pointer;
+  overflow: hidden;
+  margin-right: 5px;
+  float: right; }
+
+.down img {
+  width: 15px; }
+
+/*# sourceMappingURL=start.css.map*/
